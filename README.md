@@ -21,12 +21,12 @@ ResumeCraft is a web-based application designed to help users create professiona
 
 1. **Clone the Repository**: 
    ```bash
-   git clone https://github.com/yourusername/resumecraft.git
+   git clone https://github.com/yourusername/ResumeCraft.git
    ```
 
 2. **Navigate to the Project Directory**:
    ```bash
-   cd resumecraft
+   cd ResumeCraft
    ```
 
 3. **Open `index.html` in a Web Browser**:
@@ -43,7 +43,7 @@ ResumeCraft is a web-based application designed to help users create professiona
 
 Below is a sample resume generated using ResumeCraft:
 
-[View Sample Resume PDF](https://github.com/yourusername/ResumeCraft/raw/main/assets/images/Sample-Resume.pdf)
+[View Sample Resume PDF](https://github.com/nikpatil04/ResumeCraft/blob/main/assets/images/Sample-Resume.pdf)
 
 
 
