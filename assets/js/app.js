@@ -49,7 +49,7 @@ const fetchValues = (attrs, ...nodeLists) => {
     
     for(let i = 0; i < elemsDataCount; i++){
         let dataObj = {}; 
-        s 
+        
         for(let j = 0; j < elemsAttrsCount; j++){
            
             dataObj[`${attrs[j]}`] = nodeLists[j][i].value;
